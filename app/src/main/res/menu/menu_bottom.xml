@@ -4,11 +4,11 @@
     <item
         android:id="@+id/tab1"
         android:icon="@android:drawable/ic_menu_myplaces"
-        android:title="친구목록" />
+        android:title="인텐트" />
     <item
         android:id="@+id/tab2"
-        android:icon="@android:drawable/ic_menu_sort_alphabetically"
-        android:title="채팅" />
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="카메라" />
     <item
         android:id="@+id/tab3"
         android:icon="@android:drawable/btn_plus"
